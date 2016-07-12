@@ -1,0 +1,12 @@
+package ua.dp.itstep.shaptala.examples;
+
+public class HelloWorld {
+	
+	private string message;
+
+	public void getMessage() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

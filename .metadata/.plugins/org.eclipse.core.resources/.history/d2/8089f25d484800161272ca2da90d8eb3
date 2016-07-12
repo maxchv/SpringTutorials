@@ -1,0 +1,10 @@
+package ua.dp.itstep.shaptala.examples;
+
+public class DependencyInjection {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
